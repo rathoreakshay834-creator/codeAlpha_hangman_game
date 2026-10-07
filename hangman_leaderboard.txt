@@ -1,0 +1,3 @@
+akshay|90|fruits|easy
+akshay|70|programming|easy
+akshay|0|fruits|easy
